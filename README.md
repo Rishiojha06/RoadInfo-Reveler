@@ -1,4 +1,6 @@
-![Screenshot 2024-03-11 171231](https://github.com/Rishiojha06/RoadInfo-Reveler/assets/90191522/6767bdfe-e864-4713-b94e-13e584425369)# Road-info Reveler
+![Screenshot 2024-03-11 171231](https://github.com/Rishiojha06/RoadInfo-Reveler/assets/90191522/bdc56b7c-e239-433b-af1c-b8c6e930af5b)
+
+# Road-info Reveler
 Road-info Reveler is a web application that provides comprehensive information about the streets of Vienna, the capital of Austria. The project is built using a modern technology stack to deliver a robust and user-friendly experience.
 
 ## Technology Used

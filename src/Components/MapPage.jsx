@@ -7,7 +7,7 @@ import 'sweetalert2/dist/sweetalert2.min.css';
 
 const MapPage = () => {
     useEffect(() => {
-        mapboxgl.accessToken = "API_KEY";
+        mapboxgl.accessToken = "pk.eyJ1IjoicmlzaGlvamhhMTAxMCIsImEiOiJjbG8xaXRqcXgxanlxMm1teDV6ZGVxcm9xIn0.g3ojf3eaksqPOmxahGVsuQ";
     
         const map = new mapboxgl.Map({
           container: "map",

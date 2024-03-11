@@ -1,5 +1,4 @@
-# React + Vite
-Road-info Reveler
+# Road-info Reveler
 Road-info Reveler is a web application that provides comprehensive information about the streets of Vienna, the capital of Austria. The project is built using a modern technology stack to deliver a robust and user-friendly experience.
 
 ## Technology Used
